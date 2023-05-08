@@ -1,1 +1,3 @@
 it was the spring of hope, it was the winter of despair.
+I am adding new line and then doing git add command to move file from working directory to staging area and after adding it to staging area, i'll roll back i.e. i'll checkout to previous commit rather than commiting this change.
+After adding line 2 and git add command, I'm writng this 3rd line to see what git status will show.
